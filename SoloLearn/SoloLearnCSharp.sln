@@ -1,13 +1,13 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2036
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.Basics", "SoloLearn\1.Basics.csproj", "{93A85A3C-8046-461F-AF8D-8809D95450A3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.Basics", "1.Basics\1.Basics.csproj", "{93A85A3C-8046-461F-AF8D-8809D95450A3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.ConditionalsLoops", "ConditionalsLoops\2.ConditionalsLoops.csproj", "{03774207-BDE1-4584-93D0-E48DB8088377}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.ConditionalsLoops", "2.ConditionalsLoops\2.ConditionalsLoops.csproj", "{03774207-BDE1-4584-93D0-E48DB8088377}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.Methods", "Methods\3.Methods.csproj", "{64730D2C-1517-4CA2-8A43-8BEBA72F61E7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.Methods", "3.Methods\3.Methods.csproj", "{64730D2C-1517-4CA2-8A43-8BEBA72F61E7}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.ClassesObjects", "ClassesObjects\4.ClassesObjects.csproj", "{68076407-7455-457F-8C71-CA69A04D5748}"
 EndProject

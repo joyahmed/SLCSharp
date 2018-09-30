@@ -1,0 +1,7 @@
+C:\Users\vitbr\source\repos\SLCSharp\SoloLearn\1.Basics\bin\Debug\SoloLearn.exe.config
+C:\Users\vitbr\source\repos\SLCSharp\SoloLearn\1.Basics\bin\Debug\SoloLearn.exe
+C:\Users\vitbr\source\repos\SLCSharp\SoloLearn\1.Basics\bin\Debug\SoloLearn.pdb
+C:\Users\vitbr\source\repos\SLCSharp\SoloLearn\1.Basics\obj\Debug\1.Basics.csprojAssemblyReference.cache
+C:\Users\vitbr\source\repos\SLCSharp\SoloLearn\1.Basics\obj\Debug\1.Basics.csproj.CoreCompileInputs.cache
+C:\Users\vitbr\source\repos\SLCSharp\SoloLearn\1.Basics\obj\Debug\SoloLearn.exe
+C:\Users\vitbr\source\repos\SLCSharp\SoloLearn\1.Basics\obj\Debug\SoloLearn.pdb

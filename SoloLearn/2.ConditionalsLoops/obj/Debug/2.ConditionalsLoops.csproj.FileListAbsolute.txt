@@ -1,0 +1,7 @@
+C:\Users\vitbr\source\repos\SLCSharp\SoloLearn\2.ConditionalsLoops\bin\Debug\ConditionalsLoops.exe.config
+C:\Users\vitbr\source\repos\SLCSharp\SoloLearn\2.ConditionalsLoops\bin\Debug\ConditionalsLoops.exe
+C:\Users\vitbr\source\repos\SLCSharp\SoloLearn\2.ConditionalsLoops\bin\Debug\ConditionalsLoops.pdb
+C:\Users\vitbr\source\repos\SLCSharp\SoloLearn\2.ConditionalsLoops\obj\Debug\2.ConditionalsLoops.csprojAssemblyReference.cache
+C:\Users\vitbr\source\repos\SLCSharp\SoloLearn\2.ConditionalsLoops\obj\Debug\2.ConditionalsLoops.csproj.CoreCompileInputs.cache
+C:\Users\vitbr\source\repos\SLCSharp\SoloLearn\2.ConditionalsLoops\obj\Debug\ConditionalsLoops.exe
+C:\Users\vitbr\source\repos\SLCSharp\SoloLearn\2.ConditionalsLoops\obj\Debug\ConditionalsLoops.pdb

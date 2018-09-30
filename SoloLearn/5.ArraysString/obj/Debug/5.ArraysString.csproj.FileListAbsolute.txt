@@ -1,0 +1,2 @@
+C:\Users\vitbr\source\repos\SLCSharp\SoloLearn\5.ArraysString\obj\Debug\5.ArraysString.csprojAssemblyReference.cache
+C:\Users\vitbr\source\repos\SLCSharp\SoloLearn\5.ArraysString\obj\Debug\5.ArraysString.csproj.CoreCompileInputs.cache
