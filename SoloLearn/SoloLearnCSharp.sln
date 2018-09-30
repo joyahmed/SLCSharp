@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.ConditionalsLoops", "2.Co
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.Methods", "3.Methods\3.Methods.csproj", "{64730D2C-1517-4CA2-8A43-8BEBA72F61E7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.ClassesObjects", "ClassesObjects\4.ClassesObjects.csproj", "{68076407-7455-457F-8C71-CA69A04D5748}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.ClassesObjects", "4.ClassesObjects\4.ClassesObjects.csproj", "{68076407-7455-457F-8C71-CA69A04D5748}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.ArraysString", "5.ArraysString\5.ArraysString.csproj", "{B3E90D72-CB1A-4620-823C-FE264E8545E8}"
 EndProject

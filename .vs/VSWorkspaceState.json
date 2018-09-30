@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\SoloLearn"
+    "\\SoloLearn",
+    "\\SoloLearn\\1.Basics",
+    "\\SoloLearn\\4.ClassesObjects"
   ],
-  "SelectedNode": "\\SoloLearn",
+  "SelectedNode": "\\SoloLearn\\1.Basics\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
